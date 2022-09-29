@@ -21,8 +21,7 @@ public class MainActivity extends AppCompatActivity {
     
     public void salvarNome(View view){
         nomePrimeiraTela = editText.getText().toString();
-        if(nomePrimeiraTela == editText.getText().toString())
-            Toast.makeText(this, "Nome salvo.", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Nome salvo: " + nomePrimeiraTela, Toast.LENGTH_SHORT).show();
     }
 
     public void nextScreen(View view){

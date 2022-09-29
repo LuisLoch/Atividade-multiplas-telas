@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="ol_sou_a_segunda_tela">Olá, sou a segunda tela!</string>
+    <string name="ol_sou_a_primeira_tela">Olá, sou a primeira tela!</string>
+    <string name="ol_sou_a_terceira_tela">Olá, sou a terceira tela!</string>
+    <string name="confirmar_nome">Confirmar nome</string>
+    <string name="informe_seu_nome">Informe seu nome:</string>
+</resources>
